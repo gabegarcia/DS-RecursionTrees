@@ -44,14 +44,13 @@ The two methods will be tested using 5 cent increments between 5 cents and 30 ce
   
 2. Using the Huffman tree in the figure below:
 
-
+![Image of huffman code tree](doc/problemImages/huffman.png)
 
   - Write the binary string for the message "scissors cuts paper":
-  Binary String = `insert here`
-  
+    - Binary String = `insert here`
   - Decode the following binary string using the tree above:
   `1100010001010001001011101100011111110001101010111101101001`
-  Decoded String = `insert here`
+    - Decoded String = `insert here`
 
 3. For each of the two trees shown below, answer these questions:
 - What is its height?
@@ -59,26 +58,35 @@ The two methods will be tested using 5 cent increments between 5 cents and 30 ce
 - Is it a complete tree?
 - Is it a binary search tree? If not, make it into a binary seach tree.
 
+![Image of tree for problem 3A](doc/problemImages/problem3A.png)
 
 `insert answers here`
 
+![Image of tree for problem 3B](doc/problemImages/problem3B.png)
 
 `insert answers here`
-  
 
 4. For the binary trees shown below, indicat whether each tree is full, perfect, complete, or none of the above (note that a tree could be more than one of these!)
 
+![Image of tree for problem 4A](doc/problemImages/problem4A.png)
 
 `insert answers here`
 
-`insert answers here`
+![Image of tree for problem 4B](doc/problemImages/problem4B.png)
 
 `insert answers here`
+
+![Image of tree for problem 4C](doc/problemImages/problem4C.png)
+
+`insert answers here`
+
+![Image of tree for problem 4A](doc/problemImages/huffman.png)
 
 `insert answers here`
 
 5. Represent the general tree below as a binary tree
 
+![Image of general tree for problem 5](doc/problemImages/problem5-general.png)
 
 **[//Insert image here//]**
 
