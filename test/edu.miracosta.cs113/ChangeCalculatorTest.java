@@ -20,7 +20,7 @@ import static org.junit.Assert.fail;
  * calculateChange(int), which determines and prints all possible coin combinations representing a given monetary
  * value in cents.
  *
- * @author King
+ * @author King 
  * @version 1.0
  */
 public class ChangeCalculatorTest {
