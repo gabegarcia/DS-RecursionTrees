@@ -1,5 +1,5 @@
-# CS113-HW06-RecursionTrees
-## HW #6 for CS113 - Recursion and Tree Problems
+# RecursionTrees
+## Recursion and Tree Problems
 
 **[//Insert Build Status Image//]**
 
