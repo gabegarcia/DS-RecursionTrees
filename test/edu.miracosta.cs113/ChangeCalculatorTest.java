@@ -1,6 +1,6 @@
-package edu.miracosta.cs113;
+package RecursionTrees;
 
-import edu.miracosta.cs113.change.ChangeCalculator;
+import RecursionTrees.ChangeCalculator;
 
 import org.junit.Test;
 
@@ -26,8 +26,9 @@ import static org.junit.Assert.fail;
 public class ChangeCalculatorTest {
 
     /** Expected name of text file to be returned by ChangeCalculator.printCombinationsToFile(int). */
-    private static final String IN_FILE_NAME = "src/edu.miracosta.cs113/change/CoinCombinations.txt";
-
+    //private static final String IN_FILE_NAME = "src/edu.miracosta.cs113/change/CoinCombinations.txt";
+	private static final String IN_FILE_NAME = "CoinCombinations.txt";
+	
     /** Simple coin values to be tested (multiples of five). */
     private static final int[] FIVES = { 5, 10, 15, 20, 25, 30 };
     /** Numbers of unique coin combinations for simple multiples of five. */
