@@ -79,19 +79,19 @@ The two methods will be tested using 5 cent increments between 5 cents and 30 ce
 
 ![Image of tree for problem 4A](doc/problemImages/problem4A.png)
 
-`insert answers here`
+Complete binary tree
 
 ![Image of tree for problem 4B](doc/problemImages/problem4B.png)
 
-`insert answers here`
+Complete binary tree
 
 ![Image of tree for problem 4C](doc/problemImages/problem4C.png)
 
-`insert answers here`
+None. It is an expression binary tree
 
 ![Image of tree for problem 4A](doc/problemImages/huffman.png)
 
-`insert answers here`
+None. It is a Huffman tree
 
 5. Represent the general tree below as a binary tree
 
