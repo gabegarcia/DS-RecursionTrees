@@ -98,6 +98,7 @@ None. It is a Huffman tree
 ![Image of general tree for problem 5](doc/problemImages/problem5-general.png)
 
 **[//Insert image here//]**
+![Image of tree for problem 4A](doc/problemImages/hn6_problem_5.jpg)
 
 
 ----------
