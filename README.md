@@ -50,10 +50,10 @@ The two methods will be tested using 5 cent increments between 5 cents and 30 ce
 ![Image of huffman code tree](doc/problemImages/huffman.png)
 
   - Write the binary string for the message "scissors cuts paper":
-    - Binary String = `insert here`
+    - Binary String = 001100000011000110011100100100011000000000001110111110000110101000010100010
   - Decode the following binary string using the tree above:
   `1100010001010001001011101100011111110001101010111101101001`
-    - Decoded String = 001100000011000110011100100100011000000000001110111110000110101000010100010
+    - Decoded String = 
 
 3. For each of the two trees shown below, answer these questions:
 - What is its height?
