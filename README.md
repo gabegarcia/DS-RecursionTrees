@@ -43,6 +43,7 @@ The two methods will be tested using 5 cent increments between 5 cents and 30 ce
   - `(x + (a * (b - c)))/ d`
   
   **[//Insert image here//]**
+    ![Image](doc/problemImages/hm6_problem_1c.jpg)
   
 2. Using the Huffman tree in the figure below:
 
