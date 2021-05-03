@@ -37,7 +37,8 @@ The two methods will be tested using 5 cent increments between 5 cents and 30 ce
   ![Image](doc/problemImages/hm6_problem_1.jpg)
   - `(x * a) - y / b * (c + d)`
   
-  **[//Insert image here//]**(doc/problemImages/hm6_problem_1b.jpg)
+  **[//Insert image here//]**
+  ![Image](doc/problemImages/hm6_problem_1b.jpg)
   
   - `(x + (a * (b - c)))/ d`
   
