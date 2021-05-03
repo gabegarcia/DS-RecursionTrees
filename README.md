@@ -34,6 +34,7 @@ The two methods will be tested using 5 cent increments between 5 cents and 30 ce
   - `x / y + a - b * c`
 
   **[//Insert image here//]**
+  ![Image](https://github.com/gabegarcia/DS-RecursionTrees/blob/master/doc/problemImages/problem5-general.png)
   - `(x * a) - y / b * (c + d)`
   
   **[//Insert image here//]**
